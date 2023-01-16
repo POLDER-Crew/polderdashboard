@@ -5,4 +5,4 @@ polder/__pycache__/
 ga/__pycache__/
 instance/
 site
-*pyc
+*.pyc
