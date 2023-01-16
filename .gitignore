@@ -7,3 +7,4 @@ instance/
 site
 site.db
 *.pyc
+.pyc
