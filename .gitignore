@@ -1,2 +1,10 @@
 key.json
 requirements.txt
+__pycache__/
+polder/__pycache__/
+ga/__pycache__/
+instance/
+site
+site.db
+*.pyc
+.pyc
