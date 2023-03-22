@@ -6,4 +6,11 @@
 
 
 
+# Features
+
+
+# Setup and Configuration
+This dashboard is built with Flask a python framework. The front end dependencies are HTML, Javascript and css.
+The data are pulled via python from google analytics.
+
 
