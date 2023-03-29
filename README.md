@@ -21,7 +21,7 @@ To access the dashboard;
 ![image](https://user-images.githubusercontent.com/116196967/228675708-de5f405d-c513-451f-abc4-6d548884c82f.png)
 - The login information of this dashboard are private and are accessible to the ITO (International Technology Office)
 - Once you've logged in, you should be able to see the dashboard below
-![image](https://user-images.githubusercontent.com/116196967/228676277-e13e018a-3d74-41c0-a3ac-18f8296f1068.png)
+![image](https://user-images.githubusercontent.com/116196967/228676560-a56e3323-32df-4da2-a210-eb4ad4322601.png)
 
 
 
