@@ -13,4 +13,20 @@
 This dashboard is built with Flask a python framework. The front end dependencies are HTML, Javascript and css.
 The data are pulled via python from google analytics.
 
+To access the dashboard;
+- Open up your terminal 
+- Clone this github repository
+- Assuming you are starting from this directory  run `python app.py`
+- open the local host url on your browser (This should take you to the login panel below)
+![image](https://user-images.githubusercontent.com/116196967/228675708-de5f405d-c513-451f-abc4-6d548884c82f.png)
+- The login information of this dashboard are private and are accessible to the ITO (International Technology Office)
+- Once you've logged in, you should be able to see the dashboard below
+![image](https://user-images.githubusercontent.com/116196967/228676277-e13e018a-3d74-41c0-a3ac-18f8296f1068.png)
+
+
+
+
+
+
+
 
