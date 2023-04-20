@@ -16,6 +16,8 @@ The data are pulled via python from google analytics.
 To access the dashboard;
 - Open up your terminal 
 - Clone this github repository
+- Install all the packages from the requirements.txt `pip install -r requirements.txt`
+- Activate the virtual environment `dashboard\Scripts\activate`
 - Assuming you are starting from this directory  run `python app.py`
 - open the local host url on your browser (This should take you to the login panel below)
 ![image](https://user-images.githubusercontent.com/116196967/228675708-de5f405d-c513-451f-abc4-6d548884c82f.png)
