@@ -42,6 +42,7 @@ The data are pulled via python from google analytics. The authentication (login)
 ## To delete a user 
 If you delete a user, you need to add another user, because we need one user for the login system to work.
 Assuming you are still on the virtual environment with all the packages installed.
+Follow the following steps;
 -  `python`
 -  `from app import db`
 -  `from app import User`
@@ -49,6 +50,7 @@ Assuming you are still on the virtual environment with all the packages installe
 
 ## To add a user
 Assuming you are still on the virtual environment with all the packages installed.
+Follow the following steps;
 -  `python`
 -  `from app import db`
 -  `from app import User`
