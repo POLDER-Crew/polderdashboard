@@ -13,6 +13,28 @@
 This dashboard is built with Flask a python framework. The front end dependencies are HTML, Javascript and css.
 The data are pulled via python from google analytics. The authentication (login) portal is handled using sqlalchemy database.
 
+# To get the dashboard to work you must have the right environment installed
+This includes following set up here: https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment
+
+###Note: You’ll need to activate your virtual environment every time
+
+## Create a new virtualenv named "myproject"
+
+## Python 3.3+
+python3 -m venv myproject
+
+## Python pre 3.3
+virtualenv myproject
+New python executable in myproject/bin/python
+
+## Activate the virtualenv (OS X & Linux)
+$ source myproject/bin/activate
+
+## Activate the virtualenv (Windows)
+$ myproject\Scripts\activate
+### For troubleshooting
+View https://opentechschool.github.io/python-beginners/en/getting_started.html#what-is-python-exactly
+
 # To access the dashboard;
 - Open up your terminal 
 - Clone this github repository
